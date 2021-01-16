@@ -1,5 +1,3 @@
-# diycolorlightmeter
-A lightmeter with WB function that uses Arduino
-
-Circuit for breadboard: 
-https://drive.google.com/file/d/1DWDwKLzsenZpJWzR4-sBc2CR8awbhlJt/view?usp=sharing
+# diycolorlightmeter (Re-wrote!)
+Improved computational complexity and memory usage
+Look into My_Photometer_v3.3 folder
