@@ -1,4 +1,5 @@
 # DIY Color Light Meter
+![](https://github.com/kevinagnes/diycolorlightmeter/blob/master/Pictures/diycolorlightmeter_pixelart.gif)
 
 The DIY Color Light Meter is an Arduino-based project aimed at helping photographers and cinematographers accurately expose their shots. It leverages an Adafruit TCS34725 for color sensing, an Adafruit TSL2591 for light sensing, and a 128x64 OLED screen for displaying the readings. The device returns aperture values and white balance color in Kelvins, which helps create better-exposed and color-balanced shots.
 
